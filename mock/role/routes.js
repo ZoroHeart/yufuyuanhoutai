@@ -45,7 +45,7 @@ const constantRoutes = [
       }
     ]
   },
-  {
+  /*{
     path: '/documentation',
     component: 'layout/Layout',
     children: [
@@ -56,7 +56,7 @@ const constantRoutes = [
         meta: { title: 'Documentation', icon: 'documentation', affix: true }
       }
     ]
-  },
+  },*/
   {
     path: '/guide',
     component: 'layout/Layout',
